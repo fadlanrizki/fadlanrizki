@@ -7,7 +7,7 @@ Frontend Developer | Tech Enthusiast
 just an ordinary boy
 
 * 🌍  I'm based in Banten, Indonesia
-* 🖥️  See my portfolio at [Here](http://https://portfolio-fadlan-rs-projects.vercel.app/)
+* 🖥️  See my portfolio at [Here](https://portfolio-fadlan-rs-projects.vercel.app/)
 * ✉️  You can contact me at [fadlanrizky19@gmail.com](mailto:fadlanrizky19@gmail.com)
 * 🚀  I'm currently working on [PT Cudo Communications](http://https://www.cudocomm.co.id/)
 * 🧠  I'm currently learning English | Finance | Programming
