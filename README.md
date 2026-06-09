@@ -7,7 +7,7 @@ Frontend Developer | Tech Enthusiast
 4+ Year Of Experience on Frontend Development
 
 * 🌍  I'm based in Banten, Indonesia
-* 🖥️  See my portfolio at [Here](https://portfolio-ect.pages.dev/)
+* 🖥️  See my portfolio at [Here](https://fadlanrizki.pages.dev/)
 * ✉️  You can contact me at [fadlanrizky19@gmail.com](mailto:fadlanrizky19@gmail.com)
 * 🧠  I'm currently learning English | Finance | Programming
 * 💬  i'm a member of Ingin Menjadi Programmer Handal Namun Enggan Ngoding Community
